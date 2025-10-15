@@ -4,10 +4,8 @@
 # 結果画像
 
 ![第4回の結果](PGWS4_04_2327008_result.png)
-- 工夫した点：VoronoiノードとFresnel Effectノードを使って水面の波紋を作り、Checkerboardノードで水の色を青と水色の混色で設定した。
-- また、CheckerboardのXYやVoronoiノードのCellDensity、AngleOffsetなどのマテリアルを設定するオブジェクトで調整が必要だと思ったところは変数を作成した。
-- VoronoiノードのAngleOffsetの値をスクリプトで操作できるように変更すると波紋が動いているように見えより水面ぽくなるかもしれないとも考えた。
-  
+- 工夫した点：VoronoiノードとFresnel Effectノードを使って水面の波紋を作り、Checkerboardノードを用いて水の色を青と水色の混色で設定した。また、CheckerboardのXYやVoronoiノードのCellDensity、AngleOffsetなどのマテリアルを設定するオブジェクトで調整が必要だと思ったところは変数を作成した。
+
 
 # 進め方
 
